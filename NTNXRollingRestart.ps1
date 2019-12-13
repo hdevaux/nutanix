@@ -1,6 +1,6 @@
 # Inputs
-#$clusterName = "IDCProduction-NTNX"
-$clusterName = "NTNX02-Cluster1"
+#$clusterName = "Production-NTNX"
+$clusterName = "NTNX-Cluster1"
 $cvmPrefix = "NTNX-"
 $vmWaitTime = 60 #seconds
 $hostWaitTime = 90 #seconds
